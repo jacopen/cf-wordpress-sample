@@ -1,0 +1,5 @@
+---
+applications:
+- name: wpja
+  services:
+  - wpdb1
